@@ -20,6 +20,9 @@ A bespoke, high-end frontend layout designed exclusively for **KNOX**, a premium
 
 ---
 
+##Author
+  Muneeb 
+
 ## 🚀 Preview / Usage
 This code is built to serve as a custom frontend injection or standalone shop layout for WordPress environments utilizing custom CSS blocks. 
 
